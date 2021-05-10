@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">I lent</string>
+    <string name="nome_item">inform the item</string>
+    <string name="nome_pessoa">requester</string>
+    <string name="categoria">Category</string>
+
+    <string-array name="arrayCategoria">
+        <item>Select</item>
+        <item>Fashion</item>
+        <item>Kitchen</item>
+        <item>Electronics</item>
+        <item>Several</item>
+    </string-array>
+</resources>

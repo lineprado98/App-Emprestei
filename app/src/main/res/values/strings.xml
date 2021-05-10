@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EuEmprestei</string>
+    <string name="nome_item">Informe o item</string>
+    <string name="nome_pessoa">Solicitante</string>
+    <string name="categoria">Categoria</string>
+    <string-array name="arrayCategoria">
+        <item>Selecione</item>
+        <item>Moda</item>
+        <item>Cozinha</item>
+        <item>Eletrônicos</item>
+        <item>Diversos</item>
+    </string-array>
+</resources>
